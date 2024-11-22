@@ -1,10 +1,10 @@
 # FFNet
 ## Requirements
-`1. Python 3.6.9 <br>`
-`2. PyTorch 1.3 <br>`
-`3. OpenCV 4.0.1 <br>`
-`4. tensorboardX 2.2 <br>`
-`5. matplotlib <br>`
+`1. Python 3.6.9` <br>
+`2. PyTorch 1.3` <br>
+`3. OpenCV 4.0.1` <br>
+`4. tensorboardX 2.2` <br>
+`5. matplotlib` <br>
 ## Dataset
 1. Download the dataset from [changedetection.net](https://changedetection.net) and unzip the contents in `./dataset/currentFr` <br>
 2. Download the dataset_fpm from https://www.alipan.com/t/YMo8sszFArrVJG5Fl1Ct and put the contens in `./dataset/currentFrFPM` <br>
