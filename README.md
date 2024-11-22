@@ -14,4 +14,4 @@ You can run train.py: <br>
 python train.py --empty_bg='no' --recent_bg=0 --num_epochs=30 --set_number=1 <br>
 ps. The testing code is at the end of train.py 
 ## Acknowledgement
-This implementation largely depends on [BSUV-Net 2.0] (https://github.com/ozantezcan/BSUV-Net). We thank the authors for the contribution.
+This implementation largely depends on (BSUV-Net 2.0) (https://github.com/ozantezcan/BSUV-Net). We thank the authors for the contribution.
