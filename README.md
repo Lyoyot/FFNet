@@ -6,7 +6,7 @@
 4. tensorboardX 2.2 <br>
 5. matplotlib <br>
 ## Dataset
-1. Download the dataset from changedetection.net and unzip the contents in ./dataset/currentFr <br>
+1. Download the dataset from https://changedetection.net and unzip the contents in ./dataset/currentFr <br>
 2. Download the dataset_fpm from https://www.alipan.com/t/YMo8sszFArrVJG5Fl1Ct and put the contens in ./dataset/currentFrFPM <br>
 3. In the end, ./dataset folder should have the following subfolders: currentFr, currentFrFpm
 ## Training and Testing
